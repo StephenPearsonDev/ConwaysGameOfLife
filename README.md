@@ -28,3 +28,18 @@ A Java Swing implementation of Conway's Game of Life. This application allows us
    ```bash
    git clone https://github.com/dev.stephenpearson/ConwaysGameOfLife.git
    cd ConwaysGameOfLife
+
+2. **Build the project with Maven:**
+
+   ```bash
+   mvn clean package
+
+3. **Run the application**
+
+   ```bash
+   java -jar target/ConwaysGameOfLife-1.0-SNAPSHOT.jar
+
+
+	
+	
+

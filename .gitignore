@@ -1,0 +1,48 @@
+# Maven target directory
+/target/
+
+# Maven Wrapper files
+/.mvn/
+/mvnw
+/mvnw.cmd
+
+# Eclipse files
+.classpath
+.project
+.settings/
+
+# IntelliJ IDEA files
+.idea/
+*.iml
+*.iws
+
+# NetBeans files
+/nbproject/private/
+/build/
+/dist/
+/nbbuild/
+/nbdist/
+/.nb-gradle/
+
+# VS Code files
+.vscode/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+
+# Package distribution
+*.jar
+*.war
+*.ear
+
+# Other files to ignore
+*.swp
+*.swo

@@ -2,6 +2,10 @@
 
 A Java Swing implementation of Conway's Game of Life. This application allows users to simulate the cellular automaton with features like starting, pausing, resetting the simulation, stepping forward one generation, and colorizing the cells.
 
+### Gameplay Demo
+
+![Gameplay GIF](images/simulation_gameplay.gif)
+
 ## Features
 
 - **Start/Pause Simulation:** Begin or pause the automatic progression of generations.
